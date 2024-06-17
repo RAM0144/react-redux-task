@@ -1,0 +1,24 @@
+.root {
+    border: 1px solid;
+    border-radius: 8px;
+    padding: 8px;
+    margin: 10px;
+    position: relative;
+    background-color:blanchedalmond;
+    width: 50%;
+    height: 50%;
+}
+
+.root > img {
+    height: 400px;
+    width: 400px;
+    object-fit: contain;
+    
+}
+h2{
+    color:crimson;
+}
+
+.container{
+    background-color:aquamarine;
+}
